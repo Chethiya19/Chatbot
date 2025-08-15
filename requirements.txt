@@ -1,0 +1,4 @@
+flask>=3.0.0
+transformers>=4.41.0
+torch
+nltk>=3.9
